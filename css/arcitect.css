@@ -90,6 +90,29 @@ main > section{
 .banner-img{
     width: 100%;
 }
+/* Feture */
+.fetures{
+    gap: 100px;
+}
+#feature-section-title{
+ border-left: 5px solid #FF900E;
+ padding-left: 20px;
+ margin-top: 0px;
+ margin-bottom: 0px;
+}
+.feture-card{
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 30px 0 rgba(0, 0, 0, 0.06);
+}
+.feture-card .feture-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+   
+   
+}
+
+
 /* team and feture related style */
 .teams{
     align-items: center;
